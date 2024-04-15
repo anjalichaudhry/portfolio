@@ -1,10 +1,6 @@
-# Anjali's Portfolio
+# [Anjali's Portfolio](https://roshankushwaha.com/)
 
 Welcome to my portfolio! This repository contains the code for my personal portfolio website.
-
-## About Me
-
-I am a passionate web developer with a keen interest in creating beautiful and functional web experiences. My skills include HTML, CSS, JavaScript, and more.
 
 ## Portfolio Preview
 
