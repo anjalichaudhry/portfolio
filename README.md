@@ -30,7 +30,7 @@ You can visit my portfolio website [here](https://heyanjali21.github.io/).
 
 ## Feedback
 
-If you have any feedback or suggestions, feel free to [open an issue](https://github.com/Heyanjali21/YourRepositoryName/issues/new) or [contact me](mailto:your.email@example.com).
+If you have any feedback or suggestions, feel free to [open an issue](https://github.com/Heyanjali21/portfolio/issues/new) or [contact me](mailto:chaudhryanjali782@gmail.com).
 
 ## License
 
