@@ -1,4 +1,4 @@
-# [Anjali's Portfolio](https://heyanjali21.github.io/)
+# [Anjali's Portfolio](https://heyanjali21.github.io/portfolio/)
 
 Welcome to my portfolio! This repository contains the code for my personal portfolio website.
 
